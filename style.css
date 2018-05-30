@@ -1,0 +1,11 @@
+body
+
+
+h1 {
+  color: khaki;
+  font-size: 100px; font-weight: bold;
+   font-family: Helvetica;
+  text-align: center;
+}
+h2 { font-family: Helvetica; font-size: 32px;
+ font-weight: bold; font-color: white; background: mediumspringgreen;}
